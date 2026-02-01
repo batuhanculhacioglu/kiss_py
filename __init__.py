@@ -1,1 +1,1 @@
-from .kiss import kiss_encode, kiss_decode, FEND, FESC, TFEND, TFESC
+from .kiss_py import kiss_encode, kiss_decode, FEND, FESC, TFEND, TFESC
